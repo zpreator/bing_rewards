@@ -1,0 +1,2 @@
+cd "C:\Users\User\PycharmProjects\bing_rewards\venv\Scripts"
+bing-rewards.exe --exe "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" >> "C:\Users\User\PycharmProjects\bing_rewards\log.txt"
